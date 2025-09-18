@@ -39,4 +39,6 @@ For those seeking a dependable and secure darknet marketplace, the **Nexus Darkn
 ---
 *Note: This content is intended for informational purposes only. Engaging in illegal activities through darknet markets has serious legal consequences.*
 
-Update:  14 September Fixed broken url
+
+
+Update:  18 September Link is now available and working
